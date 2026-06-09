@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/joseefrainjebcl-coder/Actualizaciones_de_Litech/releases/download/v1.0.8/Instalador_Litech_1.0.8.exe",
-  "notas": "Ahora al cuando se actualice la app no se borra la base de datos. Se corrigieron bugs."
+  "version": "1.0.9",
+  "url": "https://github.com/joseefrainjebcl-coder/Actualizaciones_de_Litech/releases/download/v1.0.9/Instalador_Litech_1.0.9.exe",
+  "notas": "Se corrigio el problema al momento de imprimir."
 }
