@@ -1,6 +1,6 @@
 {
-  "version": "2.1.8",
-  "url": "https://github.com/joseefrainjebcl-coder/Actualizaciones_de_Litech/releases/download/v2.1.8/Instalador_SICAR_2.1.8.exe",
-  "sha256": "56B8E5996043AD089B6E93BBF967C886A9C43F1C7E47AD96586A7B4CE5DAE2FD",
-  "notas": "Nueva nomenclatura de licencia, mejoras visuales y correcciones generales."
+  "version": "2.2.1",
+  "url": "https://github.com/joseefrainjebcl-coder/Actualizaciones_de_Litech/releases/download/litech-v2.2.1/Instalador_Litech_2.2.1.exe",
+  "sha256": "AQUI_PONES_EL_HASH_REAL",
+  "notas": "Importación inteligente desde Excel, mejoras de impresión y correcciones generales."
 }
