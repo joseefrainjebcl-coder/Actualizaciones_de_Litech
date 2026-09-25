@@ -1,6 +1,6 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.3",
   "url": "https://github.com/joseefrainjebcl-coder/Actualizaciones_de_Litech/releases/download/litech-v2.2.2/Instalador_Litech_2.2.2.exe",
   "sha256": "5E20EA44B2DBD2225AFD80B74DFCA28A1E6B8B7D36CC06E0FC32C9348744921A",
-  "notas": "Mejoras en Soporte Técnico y Pedidos. Se optimiza la impresión de comprobantes de ingreso y entrega, se agregan condiciones de garantía y notas de recepción, RUT opcional del cliente, comprobante digital para WhatsApp sin firma/sello y mejoras en avisos de WhatsApp."
+  "notas": "Mejoras en la sección de pedidos."
 }
