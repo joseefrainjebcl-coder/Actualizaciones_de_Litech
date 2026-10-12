@@ -1,6 +1,6 @@
 {
-  "version": "2.2.5",
-  "url": "https://github.com/joseefrainjebcl-coder/Actualizaciones_de_Litech/releases/download/litech-v2.2.5/Instalador_Litech_2.2.5.exe",
-  "sha256": "70E81CE66C1A00FF1ABF747F7B687D52AB6A8094B87B92A41E4B75E729275B4B",
-  "notas": "Agregado de sorteo "
+  "version": "2.2.5.1",
+  "url": "https://github.com/joseefrainjebcl-coder/Actualizaciones_de_Litech/releases/download/litech-v2.2.5.1/Instalador_Litech_2.2.5.1.exe",
+  "sha256": "6DF3559334FA802B50A3010A26520418E0E2F2A8224EBF105EFE74181BD530BA",
+  "notas": "Correcion de agregado de sorteo + ingreso de antiguos sorteos"
 }
